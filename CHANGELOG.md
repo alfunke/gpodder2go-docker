@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## Unreleased
 
+## v0.1.2 - 2023-11-01
+
+### Added
+ - Use gpodder2go v0.1.2
+ - Build for linux/arm/v7
+
 ## v0.1.0 - 2023-09-29
 
 ### Added
